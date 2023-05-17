@@ -5,7 +5,7 @@ Codebasics Telangana Government Tourism Project Providing Insights to Telangana 
 
 **Domain: Tourism | Function: Revenue / Municipal Administration**
 
-![](https://github.com/masnaashraf/codebasics_telangana_tourism-project/blob/main/1401432583.jpg)
+![](https://github.com/masnaashraf/Telengana_Tourism_Analysis/blob/main/1401432583.jpg)
 
 
 Telangana
