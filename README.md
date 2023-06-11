@@ -23,7 +23,6 @@ Telangana is one of India’s leading states and has published its tourism data 
 
 As a data analyst, we saw this as an opportunity to expand his skills and show his work on a bigger scale. and I got a idea is to find the patterns in the given data, do additional research, and give data-informed recommendations to the Telangana government which can be used to increase their revenue by improving administrative operations.
 
-Peter began his work by framing some primary, and secondary research questions and recommendation ideas.
 
 Other resources Provided:
 
